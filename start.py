@@ -128,4 +128,4 @@ with tf.Session() as sess:
 plt.plot(loss_list)
 plt.grid()
 plt.xlabel('Epochs')
-plt.ylabel('Crossentropy score')
+plt.ylabel('Crossentropy')
